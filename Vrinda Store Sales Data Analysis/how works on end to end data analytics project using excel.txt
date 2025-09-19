@@ -1,0 +1,52 @@
+how works on end to end data analytics projects using excel
+
+
+In this projects I learned 
+1. Data cleaning
+2. Data preprocessing
+3. Data Analysis
+4. Data visualization
+5. creating Reports 
+6. Insights share to client
+
+Data for projects :- Vrinda Store Data Analysis
+
+objective :- 
+
+Vrinda store wants to create an annul sales reports for 2022. So that, Vrinda can understand their ustomers  more ales in 2023.
+
+Sample Questions
+
+Compare the sales and orders using single chart
+
+Which month got the highest sales and orders?
+
+Who purchased more- men or women in 2022?
+
+What are different order status in 2022?
+
+List top 10 states contributing to the sales?
+
+Relation between age and gender based on numbers order
+
+Which channel is contributing to maximum sales?
+
+Highest selling category?, etc.
+
+
+Vrinda Store - Annual Sales Report (2022)
+
+Key Insights:
+1. Women contributed ~65% of total purchases.
+2. Maharashtra, Karnataka, and Uttar Pradesh together contributed ~35% of total sales.
+3. Adult age group (30-49 years) contributed ~50% of sales.
+4. Amazon, Flipkart, and Myntra contributed ~80% of overall sales.
+5. Highest sales recorded in March.
+6. Clothing category was the best-selling category.
+
+Conclusion:
+To improve Vrinda Store’s sales in 2023:
+- Focus on women customers (30-49 yrs).
+- Target customers in Maharashtra, Karnataka, and Uttar Pradesh.
+- Leverage Amazon, Flipkart, and Myntra with exclusive offers, ads, and coupons.
+
