@@ -145,16 +145,3 @@ Data-backed decisions > Guesswork.
 Made with ❤️ by Tanmay
 
 ---
-
-### 🔥 Strong Opinion (Portfolio Tip)
-
-If you really want recruiters impressed:
-
-1. Add actual screenshots of your dashboard (not generic Excel images)
-2. Add a 1-page PDF export of your dashboard
-3. Add a short LinkedIn case study explaining your thought process
-
-Excel projects look basic.
-Excel projects with **business storytelling + visuals** look powerful.
-
----
