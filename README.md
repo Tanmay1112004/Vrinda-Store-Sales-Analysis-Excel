@@ -8,13 +8,6 @@
 
 ### 📈 Annual Sales Dashboard
 
-![Image](https://www.geckoboard.com/blog/content/images/2022/02/Sales-YTD-dashboard-example.png)
-
-![Image](https://cdn.kicksdigital.com/depictdatastudio.com/2023/04/Data-to-Dashboard_Interactivity_GIF.gif)
-
-![Image](https://media.licdn.com/dms/image/v2/D4D12AQG_sx8W-3bAEg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1690224001270?e=2147483647\&t=Q5LXjkDWIgGrcoH8l8l1xtu5du0d7syHIf9XtbMpSZ4\&v=beta)
-
-![Image](https://www.geckoboard.com/uploads/Ecommerce-KPI-dashboard.png)
 
 > Interactive Excel dashboard built using Pivot Tables, slicers, KPI cards, and dynamic charts.
 
