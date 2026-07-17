@@ -6,8 +6,12 @@
 
 ## 🖼️ Dashboard Preview
 
-### 📈 Annual Sales Dashboard
+![Image](https://www.geckoboard.com/blog/content/images/2022/02/Sales-YTD-dashboard-example.png)
 
+
+
+
+### 📈 Annual Sales Dashboard
 
 > Interactive Excel dashboard built using Pivot Tables, slicers, KPI cards, and dynamic charts.
 
